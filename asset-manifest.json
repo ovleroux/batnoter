@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/batnoter/static/css/main.f0ebfad7.css",
+    "main.js": "/batnoter/static/js/main.e469067e.js",
+    "static/media/404.png": "/batnoter/static/media/404.82dd629fa9ba9f8f622d.png",
+    "index.html": "/batnoter/index.html",
+    "main.f0ebfad7.css.map": "/batnoter/static/css/main.f0ebfad7.css.map",
+    "main.e469067e.js.map": "/batnoter/static/js/main.e469067e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ebfad7.css",
+    "static/js/main.e469067e.js"
+  ]
+}
